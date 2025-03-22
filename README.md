@@ -28,7 +28,9 @@
 
 因为版权原因，本存储库不包含任何原项目的图像哦，抱歉呢
 
-####如果你喜欢这个项目，不要忘了加个star呐~
+这个项目已经在我的服务器上部署可以访问这个网址使用喵
+
+https://www.hutaotao.top/amachiromaker/
 
 <p align="center">
   <figure>
@@ -39,5 +41,5 @@
     <img width="90%" src="readme-assets/gif1.gif" alt="Animated GIF">
     <figcaption>动画演示</figcaption>
   </figure>
-  <p align="center">因为版权原因，本存储库不包含任何原项目的图像哦，抱歉呢</p>
+  <p align="center">如果你喜欢这个项目，不要忘了加个star呐~</p>
 </p>

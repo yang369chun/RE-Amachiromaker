@@ -29,3 +29,20 @@
 因为版权原因，本存储库不包含任何原项目的图像哦，抱歉呢
 
 ####如果你喜欢这个项目，不要忘了加个star呐~
+
+<p align="center">
+  <figure>
+    <img src="readme-assets/screenshot.png" alt="Screenshot">
+    <figcaption>Fig.1 - Screenshot</figcaption>
+  </figure>
+  <figure>
+    <img width="90%" src="readme-assets/gif-in-action.gif" alt="Animated GIF">
+    <figcaption>Fig.2 - Animated GIF</figcaption>
+  </figure>
+  <figure>
+    <img src="readme-assets/psd-layers.png" alt="PSD Layers">
+    <figcaption>Fig.3 - PSD Layers</figcaption>
+  </figure>
+  <p align="center">Any of the artwork above will <b><i>not</i></b> be provided in this repository.</p>
+  <p align="center">Copyright of the artwork belongs to the original author.</p>
+</p>
